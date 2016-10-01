@@ -29,8 +29,8 @@
       <file leaf-file-name="MapsActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/carlfevrius/lighthouse/MapsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1353">
-              <caret line="67" column="13" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="13" />
+            <state relative-caret-position="1221">
+              <caret line="62" column="51" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -2618,8 +2618,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/carlfevrius/lighthouse/MapsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1353">
-          <caret line="67" column="13" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="13" />
+        <state relative-caret-position="1221">
+          <caret line="62" column="51" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="51" />
           <folding />
         </state>
       </provider>
