@@ -89,7 +89,8 @@ public class MainActivity extends Activity {
                     ArrayList<String> result = data
                             .getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
                     txtSpeechInput.setText(result.get(0));
-
+                    Intent i = new Intent(this, SecondActivity.class);
+                    i.putExtra("KEY",result);
                 }
                 break;
             }
