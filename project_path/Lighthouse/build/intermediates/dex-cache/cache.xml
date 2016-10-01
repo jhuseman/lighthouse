@@ -3,471 +3,453 @@
 
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_29af5d830b586d22fbf78355185c8ed2b2d20959/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_295cde80f9342193a4181652194748381c2d751e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_0a97c33e61865c732c5349f577743dea2d573dc8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_6df79c25ece6d2f8763817895affb75dd54a09b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_8b5b4281d656b87343ccfa7d0394ed75aa297439/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_18f9fc2445bef472f224e53f525090b96cbfe036/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_632ffae6b0240a11e4ee5729aa0a6cf68aa48ec0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_110b1551f95e3ee8168098c3bf578a844b965404/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a136366045678579300d161de97c2211c4c4f7a0">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_67be7da432cf4b78c5b59b8235467881aa1e482b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f07e6cf611f0182f188bc47238204f0f7864893c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_817693ddfcb93fa27cc236bdd0eccddd8ca31221/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d2d52ce1fa691f09d27ef35b63f652e90a492c5c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_dbf3f589214efe6ff8eeb7b8ef5568230d897c75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5366d3b8922f4463d5bc87eb8d1f98b2d125bb4e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_4e3c45bc6d78bc606afdc5b29b996b6a6f1990ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="68a780e1044c16436caa5ca10c09f41c46029eef">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c1dfdce24a77d2a0a7a99cb62bcc018ca84bac8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_0c06963de13320b57ec3ed6084c6aac0b7e480bc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_4d3f686a264f68b3f5ea620ea862ac28e68137cc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_76714e8ee995447c43f98275faf17e8b986e4989/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_08be2901783bb273e320dc70ff5288258da631dc/classes.dex" />
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b47bc5fc238d582bcd33d0e8b87a2a206228d9dc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_0f8923a265ff73f5f699f719ee5fc41f1c7cb165/classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_57754a5bf575d9ac56c5ac413367b2153750a11d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_b2f08fc7d40c876b54c130ad9e5b970efc53c8ac/classes.dex" />
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_8b50ddaf027d3b979ef91c11a8008a40b6f43b28/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d24b776d9923ba4f86127ce14a0b91e1573485b8">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a57831ccd117f36d6271fb1e5e16413f8b4e1a3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_606690e2e300d4f08222ddb10b51f801d4e66d44/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_d9379556971fc2dc0e3426379a3f330d04e2d618/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_21134c367c60a9a9f478c8333ed1044f3a1e1245/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4cf963d76aabda15516677bee47e4c4983eb1bcd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_aca7fa2fecb1ef6969e3f9b9c17e0b218eb06631/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_99f4236ff3062be6f587c414b6e7fb2930c47046/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_15dde8e8019cc2c0156227de9212a186c0d97c47/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_d8d636e7bd98bbe865dc6c812dd404a93e02ee4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_47b167edae4d50911de1102fa37285498dcb2697/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_4f48c1ffde1076ebaabc826a9e3fb12fca70eb4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e50d652ebec19c4c76aafd5399e128b2af186bce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_58bd85386586b171de23ce9cbda73fb739ef6e6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_154648015e42c8642577e1ddcddb06181f68e3ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bfd49af6690bb48665c1c4f748d640ca25bb4e7c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_85ab1a4a61b9dce917f49182a888472ef8039bee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_015d44335f4728bb6d2ea3850a86a9a8e75e1bae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a76a6983a23788b3689524d4bed763955afbd306">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_6d719a6f7521f0aaeadc36b38449691600922534/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_1871171ec455d2dba29ad6651b20f21cb881a647/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_2ec1707f0b7316de59af1431f727078a685a3243/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_292db1086069543da20166541d63a1117da3b2f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_c998f65fb4f7aba7cb61191167d168d37a3312b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_8ef50205bdfbf5f2cd4946ddd0100390d23b1129/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_3993d9d42c1ca980e812a4a4f6ca9a09ee347030/classes.dex" />
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_658096cc169db451b68dbc1957b361a9ec13d37a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_214081e8193d2494d7eb24b8ef01373c9a3ca6c8/classes.dex" />
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_f53491bfc1070b3d97b7b08b1b5ed6351ebd2bc4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_3ddf94b40fea5629ff16117aed1601ca2445291d/classes.dex" />
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_c93efa561c09a8112c142c1c44e5bd30fad57897/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_7e42ca019cf44c3400d32b0c1ac6d9d415180472/classes.dex" />
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_4e45d4fff4f22f87b0550cce2cc99f986eb49fb7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4d41af3b8032d1a7129a4295f360001602b30626/classes.dex" />
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_5d388d668320d884fccb5d8a9afc445c4960e8d5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6b9172155044ff066a5f4fb33249edd81d6c922c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_aa1876acca5ffbb09278d822320f0d6285a58852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_144cecfd97eadde7ce828ae13c38f342fa932b96/classes.dex" />
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_f75645d83dcef8d737381353dc1e53c1190983d3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_b501c62c1667bd710a8c5afb20c6a1f9b907aba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_2f7cca7d96583b9e7fc532568d01fe175d0c97de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_df8f58ec1f8d5315904083ca476cd573c1693259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_39bfcb2514d9fa6de6eb9ebc1b38ca2c37b4888f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_a011f270b2c45c96a23ddfd34693287a118fc633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_479f40f0be3db10346d49084027c5434c09fd09d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_9147cc543db24fee7620bf1c684da4fde2ea33f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_04af5cef6c709430785fddc8e0719eaab0d2a1a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_c159c3ddeb7e2a2a765cbfd071e7b0a909cb2336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_ea56997b2a7f07d89fec77046cc021aeff93097c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_48e3b8603385ec6be75e1516c47b62cca835d956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_b0e462f6622f504c9d2f7b92bf21d0366e201d3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f86687821b571af8e4c8fb077beb07c5ad2f2c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_0f1a1f777864eca30a5cff0cbb93f7cf1607352e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_98ca3bb2b4eb43de7ec95088eb3da1bacc1d6f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_c9b42f672c5c4d1f013c96aaaedd72685bc6194a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fbb8f28c9d7b9ec15d90cf135422cd024d49378c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_11bbeb1df8443e9f83f38860c20db313ea49eb6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_e825606aeb0d89bea5573156c622c43e6fc510e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6d5792ebd6183080297b7e84af22fcc1cbbd4272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_f21709b20870e1e3bcebaf63a1043409fefb3ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_6b6f730d8d52eda35f5524a92b2747e10a6d1d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_bdc3aae45320976cf6cb1132d969b5179b1d7df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_90fa8eb1da11bba32e039b33ca2b25ae1ef804c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_af46abe4537a7f06c8fe486cf5a009a914a93f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_74e13ba906a47b985648fccfe80680f113e3cec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_44e2f28266d330b8bd229ee419d7c5a6188d333b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="babb25794a7599069d34705038744c5760a9a88c">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_829f18bdd0a80d8ed97b0397d01340a6f8b847dc/classes.dex" />
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_93405a6ad70d764b1d6ea3bdf78327a233e7e131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_ba2a89062bd1b2aae6a15efbd2eee7683277ff7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_4743c54e29afae7215746ec897ab8feabd8e83f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_bf357c82dabcad8a56387a301b19b8ddd48104fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_ba77c8675acbdbce1d6dccee159cc7390fdfe4c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_bea174e64c0382c6a29431ebb30f2995e42c680f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f393f356e3c56a146eea591c03e0eb30704d2a14">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2ffcfca1943ff946f1b98c8288c01764295b62ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_6ddad76248d4a554e07b4104c7fd619c3e9983e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_5bdad722dcd4285d43eac7122e9e5170f389fde4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_288e7773d5a9c647c61a48f40484264c1a2ca0aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_7dc7f2f821d36cd66bc9ea1822d3a58d2ed0037b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_432baef17f448a3b1d9d6e9d937a9ddb0703b2d9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -476,151 +458,169 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2882c725c2c58669dfcb760dc7f6ef3ed3a250d2/classes.dex" />
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2882c725c2c58669dfcb760dc7f6ef3ed3a250d2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_60a28e6409a79cc793df4e5d8b2a6a3d04cc6bd5/classes.dex" />
+        sha1="d8c8742d79ea96e79816d824a1776b2a601ae097">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b66bc47acdf730ddb9e9e70e52a0cca97d50062b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_e3a7275e1e13f18bd63a38017b0f983fba8f23b0/classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3cf5fddca08df0fd5f7d8590e85e3a0c958ec1f6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="518adc52081d41724932b41bc132e4d50a352b86">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_d999d365e3d2295386c0c8cccf69afe77b435c23/classes.dex" />
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_f4362fa94ed484d595acc441fcf03f408b7fb649/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_74f55c2df471dbc744e43255dcf77ecfc2ce1e36/classes.dex" />
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_d2c79dc11a72dd85f3f622b2d73e0cbd6e2572af/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e3431b3e61fe4bd1dbf21fda8cf6b726a790bb57/classes.dex" />
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_3419ff3fe312355a0522cfb4d31ee5afde69c49c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ccd6dac6134dd52ac3c5c6ddf68b236924e86550/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8370c13918990f5616370fe8792ab7400fb33474/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_7f100bafcc7b50d60b0ab560ceda70f44e78d1eb/classes.dex" />
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_8d09cee034d583d75df230eeb3b2d1638e72f12e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_69c14bb5bd999d547ee8f54a82785d9634480ef0/classes.dex" />
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_5761c3b0f2c042a2220f52248d56c7abd4d1c0d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_078a51e1ebbb36274ba1d2af009405049e435b00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_a6337317219bdafe7d0bec0a1ae262c580f7ba6f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1da7aa074f430ba97dfc507f3d813a0b4caa74f4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_60b31b488c727081029bb1e8754ae2a7d673dbb3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_e9450fc874ec88ba1aa316c599ab893c5d0faa14/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_e6fe32035d998aadc1353970349be5723268e474/classes.dex" />
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_c47744dc80ca755369439071360b548c82c2d47d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_eb29874c2f4ac71a3ac87defa2313e2dd7fa42ef/classes.dex" />
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_a3da0e41422e8b44d0d1087b95417ac5a3aa7cbe/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/CarlFevrius/AndroidStudioProjects/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2b7c2cbc6e2eab17530f6f799d00d127cad95ad0/classes.dex" />
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_072a906754ee5727cc67d35163977bca72de9117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0d086c42c0c6bf770a589914ea65435ddce46833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_9d5e0aa93ba908a81f981b931af40c7ecdb9570b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_14e5cd05097a04e8f949a81c2518d44502c2c898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_e56546ecc349ad11f57d6a771fc0d642d132610a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_0f0ce6ac27169f4feb533b57049e11b94d6ff0a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_78e3c0d9ee5ade70843698c967e31f7c7277314f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/CarlFevrius/Desktop/lighthouse/project_path/Lighthouse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_361c901efbf1fc3ab19068512d7651f2313a1052/classes.dex" />
     </item>
 
 </items>
