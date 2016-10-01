@@ -23,33 +23,23 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="60dp"
         android:gravity="center"
-        android:orientation="vertical"
-        android:weightSum="1"
-        android:id="@+id/linearLayout">
+        android:orientation="vertical" >
 
+        <ImageButton
+            android:id="@+id/btnSpeak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:src="@drawable/ico_mic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/tap_on_mic"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:textStyle="normal" />
     </LinearLayout>
-
-    <ImageButton
-        android:id="@+id/btnSpeak"
-        android:layout_width="318dp"
-        android:layout_height="wrap_content"
-        android:background="@null"
-        android:src="@drawable/ico_mic"
-        android:layout_weight="32.90"
-        android:layout_above="@+id/linearLayout"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="27dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/tap_on_mic"
-        android:textColor="@color/white"
-        android:textSize="15dp"
-        android:textStyle="normal"
-        android:layout_weight="9.75"
-        android:id="@+id/textView"
-        android:layout_alignTop="@+id/linearLayout"
-        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

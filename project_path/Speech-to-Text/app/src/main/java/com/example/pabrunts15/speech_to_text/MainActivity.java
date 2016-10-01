@@ -1,18 +1,24 @@
-package com.example.sean.speechtotexttutorial;
+package com.example.pabrunts15.speech_to_text;
 
-        import java.util.ArrayList;
-        import java.util.Locale;
+import android.app.Activity;
 
-        import android.app.Activity;
-        import android.content.ActivityNotFoundException;
-        import android.content.Intent;
-        import android.os.Bundle;
-        import android.speech.RecognizerIntent;
-        import android.view.Menu;
-        import android.view.View;
-        import android.widget.ImageButton;
-        import android.widget.TextView;
-        import android.widget.Toast;
+
+import android.content.ActivityNotFoundException;
+import android.content.Intent;
+import android.os.Bundle;
+import android.speech.RecognizerIntent;
+import android.view.Menu;
+import android.view.View;
+import android.widget.ImageButton;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.example.pabrunts15.speech_to_text.R;
+
+import java.util.ArrayList;
+import java.util.Locale;
+
+
 
 public class MainActivity extends Activity {
 
@@ -89,3 +95,4 @@ public class MainActivity extends Activity {
     }
 
 }
+
